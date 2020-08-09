@@ -1,0 +1,110 @@
+﻿h1, .div_mid_home >h1{
+    font-family: 'Brush Script MT';
+    font-size: 70px;
+    color: #1FBED6;
+    text-align: center !important;
+}
+body {
+    background-color: #e4f5f2 !important;
+    color: lightseagreen !important;
+    font-family:Calibri !important;
+}
+a {
+    text-align: center;
+    font-size: 35px;
+    margin-left: 2%;
+    color: lightseagreen;
+    font-family: Calibri;
+}
+img, .div_mid_home >img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-family:Calibri;
+    color:lightslategrey;
+    display:inline;
+    text-align:right;
+}
+h2{
+    font-family:Calibri;
+    font-size:45px;
+    text-align:center;
+}
+.dining > img, .rooms >img{
+    height: 80% !important;
+    width: 90% !important;
+}
+input, select {
+    border: none;
+    border-bottom: ridge;
+    border-bottom-color: #1FBED6;
+    color: lightseagreen;
+    font-family: Calibri;
+    background-color: #e4f5f2;
+    font-size: 25px;
+}
+label {
+    margin-right: auto;
+    color: lightseagreen;
+    font-family: Calibri;
+    font-size: 25px;
+  font-weight:bold;
+}
+#hurry{
+    font-size:35px;
+    text-align:center;
+    margin-left:35%;
+}
+#bookroom {
+    margin: 5%;
+    border: dashed 0.5px lightseagreen;
+    align-self: center;
+    margin-right: auto;
+    margin-left: auto;
+
+    padding-bottom: 2%;
+    padding-left: 2%;
+
+}
+button {
+    background-color: lightseagreen;
+    color: whitesmoke;
+    font-family: Calibri;
+    font-size: 30px;
+    border-color: whitesmoke;
+    margin-top:2%;
+    margin-left:40%;
+}
+.div_up{
+    margin-left:10%;
+    margin-bottom:2%;
+
+}
+    .div_up > i, .div_up > a {
+        color: lightseagreen !important;
+    }
+
+#TravelTommorow{
+    height:500px;
+    width:800px;
+    display:block;
+    margin-left:10%;
+}
+.about{
+  text-align:center;
+  margin:auto;
+ font-size:30px;
+ 
+}
+
+.changeDB {
+    width: 80%;
+    border: dotted 1px #1FBED6;
+    padding:10px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
